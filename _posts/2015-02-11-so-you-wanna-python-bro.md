@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=v2M2SquTHhc<br>
 <br>
 While I really liked some of his points, i have to admit that he hasn't swayed me to python.<br>
 He started off by saying Python is convoluted by hard to understand modules that all do the same things, and its hard to find the one you want.<br>
-Then he goes on to make another one which is simpler (it handels HTTP requests, he does a good job of explaining it).<br>
-And in the end, he has a much simpler python module to do what he wants, But surely isnt that making his first issue worse? Hes adding another python module to a pool of python modules that people are going to stuggle to understand, surely to make the module system better a collection of standard packages.<br>
+Then he goes on to make another one which is simpler (it handles HTTP requests, he does a good job of explaining it).<br>
+And in the end, he has a much simpler python module to do what he wants, But surely isn't that making his first issue worse? Hes adding another python module to a pool of python modules that people are going to struggle to understand, surely to make the module system better a collection of standard packages.<br>
 But i guess thats the point of open source, floating ideas out there and the best module will float to the top? <br> In my experience that isn't always the case.
 
 <br>
