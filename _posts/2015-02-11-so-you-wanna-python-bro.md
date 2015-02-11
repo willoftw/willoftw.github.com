@@ -10,7 +10,7 @@ tags: []
 So I started picking up some Python just to give myself a refresher, the last time I used it was about 2002... so stick with me here. <br>
 <br>
 Watched this video: <br>
-https://www.youtube.com/watch?v=v2M2SquTHhc<br>
+<a link="https://www.youtube.com/watch?v=v2M2SquTHhc">YouTube video</a> <br>
 <br>
 While I really liked some of his points, I have to admit that he hasn't swayed me to python.<br>
 He started off by saying Python is convoluted by hard to understand modules that all do the same things, and its hard to find the one you want.<br>
